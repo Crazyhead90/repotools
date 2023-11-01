@@ -15,6 +15,7 @@ tools=("
 	chromium-browser
 	curl
 	default-jre
+ 	dirb
 	dos2unix
 	dsniff
 	ent
